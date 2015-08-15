@@ -24,4 +24,3 @@ Technical Skills:
 Development Methodolgy:
 - Agile Developement.
 - Scrum Daily with Weekly sprints.
-- 
