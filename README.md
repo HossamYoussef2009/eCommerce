@@ -15,6 +15,7 @@ Technical Skills:
 - SOLID Principles.
 - PHP5, OOP and MVC.
 - Symfony2 Framework, Doctrine2 and ORM2.
+- API Security 
 - Dependency Injection.
 - Elastic Search.
 - Pagination.
